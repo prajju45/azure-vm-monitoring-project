@@ -20,3 +20,16 @@ Azure Monitor & Alerts
 Log Analytics Workspace
 KQL (Kusto Query Language)  
 
+4) Screenshots
+![VM Overview](VM%20Overview.png)
+![NSG Rules](NSG%20Rules.png)
+![Nginx Running](Nginx%20Running.png)
+![High CPU Alert](High%20CPU%20Alert.png)
+![Log Analytics](Log%20Analytics.png)
+
+5) Key Learnings
+- Configured NSG rules to restrict SSH access to my IP only
+- Deployed and configured Nginx on Ubuntu 24.04
+- Set up CPU-based alert rules with email notifications
+- Queried live VM logs using KQL in Log Analytics
+
